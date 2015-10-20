@@ -20,6 +20,7 @@
     NSLog(@"第一次更改");
     NSLog(@"dier");
     NSLog(@"刘欣");
+    NSLog(@"刘欣修改");
 }
 
 - (void)didReceiveMemoryWarning {
